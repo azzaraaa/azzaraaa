@@ -12,7 +12,7 @@
 ✨ Lover of pastel vibes & kawaii aesthetics <br>
 💻 Windows & Web Developer <br>
 🎨 Designing cute & playful UI <br>
-🌱 Currently learning **Flutter, UI/UX, and GitHub magic** <br>
+🌱 Currently learning Python, php, Html, Flutter, UI/UX, and GitHub<br>
 💌 Contact: azzaraaday@gmail.com
 </p>
 
