@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://www.nicepng.com/png/full/350-350520_rain-gif-pixel-rain-gif-transparent.png" width="150"/>
+  <img src= "https://i.gifer.com/3q60.gif"  width="150" height="100"/>
 </p>
-
-
 
 
 <h1 align="center">𝐇𝐢 𝐭𝐡𝐞𝐫𝐞! 👋 𝗶'𝗺 𝘇𝗮𝗿𝗮, 𝗯𝘂𝘁 𝘆𝗼𝘂 𝗰𝗮𝗻 𝗰𝗮𝗹𝗹 𝗺𝗲 𝗿𝗮𝗶𝗻</h1>
@@ -10,7 +8,8 @@
 
 ---
 
-## 🌷 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
+
+## 🌷 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 <p align="center"> <img src= "https://i.gifer.com/6mz.gif" width="110"/></p>
 <p align="center">
 ✨ Lover of pastel vibes & kawaii aesthetics <br>
 💻 Windows & Web Developer <br>
