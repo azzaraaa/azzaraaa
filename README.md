@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150"/>
+  <img src="https://www.nicepng.com/png/full/350-350520_rain-gif-pixel-rain-gif-transparent.png" width="150"/>
 </p>
+
+
+
 
 <h1 align="center">𝐇𝐢 𝐭𝐡𝐞𝐫𝐞! 👋 𝗶'𝗺 𝘇𝗮𝗿𝗮, 𝗯𝘂𝘁 𝘆𝗼𝘂 𝗰𝗮𝗻 𝗰𝗮𝗹𝗹 𝗺𝗲 𝗿𝗮𝗶𝗻</h1>
 <h3 align="center">🌸 𝐈𝐓 𝐒𝐭𝐮𝐝𝐞𝐧𝐭✨💖</h3> 
